@@ -96,6 +96,7 @@ Additional to workspace name matching, the following *format-icons* can be set.
 - *#workspaces button*
 - *#workspaces button.focused*: The single focused workspace.
 - *#workspaces button.active*: The workspace is active (visible) on its output.
+- *#workspaces button.urgent*: The workspace has one or more urgent windows.
 - *#workspaces button.empty*: The workspace is empty.
 - *#workspaces button.current_output*: The workspace is from the same output as
   the bar that it is displayed on.
